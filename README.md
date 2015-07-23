@@ -1,3 +1,4 @@
+# This is the same thing as mcd except that it allows any version of lager to be used in its deps...
 
 # Erlang memcached client library.
 
